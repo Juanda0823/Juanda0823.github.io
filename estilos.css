@@ -1,0 +1,332 @@
+.url {
+    background-color: cyan;
+    color: purple;
+    font-size: 30px;
+}
+#bie {
+    text-align: center;
+    color: darkslategray;
+    -webkit-text-stroke: 2px blue;
+    font-size: 70px;
+    text-shadow: 2px 3px 4px violet;
+    animation: glowing 2s infinite;
+}
+.me {
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px rgb(103, 8, 192);
+    font-size: 45px;
+    text-shadow: 2px 3px 4px palevioletred;
+    animation: glowing 2s infinite;
+}
+.izq {
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    font-size: 35px;
+}
+.cen {
+    position: absolute;
+    top: 150px;
+    left: 910px;
+    font-size: 35px;
+}
+.der {
+    position: absolute;
+    top: 150px;
+    right: 10px;
+    font-size: 35px;
+}
+.deri {
+    position: absolute;
+    top: 100px;
+    right: 210px;
+    font-size: 35px;
+}
+#ind {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+#col {
+    position: absolute;
+    top: 150px;
+    width: 1908px;
+    height: 41px;
+    background-color: chartreuse;
+}
+#col1 {
+    position: absolute;
+    top: 142px;
+    width: 1908px;
+    height: 41px;
+    background-color: rgb(0, 89, 255);
+}
+.cop {
+    background-color: black;
+}
+.nov {
+    color: aliceblue;
+}
+.pro {
+    position: absolute;
+    top: 180px;
+    left: 10px;
+    width: 636px;
+}
+.pro img {
+    display: block;
+    margin: 0 auto;
+}
+#tit {
+    text-align: center;
+}
+.eve {
+    position: absolute;
+    top: 180px;
+    left: 640px;
+    width: 636px;
+}
+.eve img {
+    display: block;
+    margin: 0 auto;
+    width: 465px;
+}
+.promo {
+    position: absolute;
+    top: 180px;
+    right: 10px;
+    width: 636px;
+}
+.promo img {
+    display: block;
+    margin: 0 auto;
+    width: 450px;
+    height:360px;
+}
+.izqu {
+    position: absolute;
+    left: 10px;
+    top: 100px;
+    font-size: 35px;
+}
+.cent {
+    position: absolute;
+    top: 100px;
+    left: 910px;
+    font-size: 35px;
+}
+#fig {
+    text-align: center;
+    color: black;
+    -webkit-text-stroke: 2px rgb(103, 8, 192);
+    font-size: 45px;
+    text-shadow: 2px 3px 4px palevioletred;
+    animation: glowing 2s infinite;
+}
+#he1 {
+    display: block;
+    width: 1050px;
+    height: 950px;
+}
+#he2 {
+    display: block;
+    width: 1050px;
+    height: 950px;
+    left: -4000px;
+}
+#he4 {
+    display: block;
+    width: 1050px;
+    height: 950px;
+    left: 3000px;
+}
+#he5 {
+    display: block;
+    width: 1050px;
+    height: 950px;
+    left: 3000px;
+}
+.tam{
+        position: absolute;
+        top: 100px;
+        left: 10px;
+        width: 900px;
+}
+.tam1 {
+    position: absolute;
+    top: 100px;
+   right: 10px;
+    width: 900px;
+}
+.tam img {
+    position: absolute;
+    top: 5px;
+    right: 50px;
+    width: 160px;
+    height:200px;
+}
+.tam1 img {
+    position: absolute;
+    top: 5px;
+    right: 50px;
+    width: 160px;
+    height:200px;
+}
+.avengers img {
+    width: 300px;
+    height: 200px;
+}
+.bot {
+    background-color: cyan;
+    color: purple;
+    font-size: 30px;
+    position: absolute;
+    right: 10px;
+}
+.botones{
+    background-color: rgb(135, 116, 153);
+    padding: 11px 13px; 
+    border: rgb(226, 88, 134) 3px solid;
+    color: purple;
+    font-weight: bold;
+    border-radius: 9px;
+    position: absolute;
+}
+a{
+    font-style: normal;
+    text-decoration: none;
+}
+#anika {
+    top: 112px;
+    right: 50px;
+}
+.ani img {
+    width: 267px;
+    height: 220px;
+}
+.figs {
+    background-color: black;
+}
+#pope {
+    top: 112px;
+    left: 50px;
+}
+.cultura{
+    background-color: black;
+    color: aliceblue;
+}
+.lego{
+    color: mediumslateblue;
+}
+.anike{
+    background-color: black;
+    color: aliceblue;
+}
+#for {
+    bottom: 15px;
+    left: 15px;
+}
+/*formulario*/
+#cue {
+    background-image: radial-gradient(circle at bottom center, rgb(229, 229, 229),rgb(109, 109, 109));
+}
+.logo {
+    width: 45%;
+    height: auto;
+    opacity: 0.2;
+    position: fixed;
+    top: 0px;
+    right: -70px;
+}
+.logo1 {
+    width: 45%;
+    height: auto;
+    opacity: 0.2;
+    position: fixed;
+    top: 0px;
+    left: -100px;
+}
+h2 {
+    animation: colorChange 3s infinite;
+    text-align: center;
+  }
+  
+  form {
+    background-color: #fff;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  label {
+    color: black;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type=text],
+  input[type=email],
+  select,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #4cae4c;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  .dropdown {
+    right: 15px;
+    bottom: 15px;
+}
+  @keyframes colorChange {
+    0% {
+      color: purple;
+    }
+    33% {
+      color: darkblue;
+    }
+    66% {
+      color: pink;
+    }
+    100% {
+      color: purple;
+    }
+  }
+
+  @keyframes borderChange {
+    0% {
+      border-color: purple;
+    }
+    33% {
+      border-color: darkblue;
+    }
+    66% {
+      border-color: rgb(191, 5, 248);
+    }
+    100% {
+      border-color: purple;
+    }
+  }
